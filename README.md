@@ -20,9 +20,14 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Miregia-Aigerim/30github/tree/master/0020-valid-parentheses) |
 | [2502-sort-the-people](https://github.com/Miregia-Aigerim/30github/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/Miregia-Aigerim/30github/tree/master/2502-sort-the-people) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Miregia-Aigerim/30github/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
