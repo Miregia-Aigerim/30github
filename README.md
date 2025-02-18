@@ -9,6 +9,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Miregia-Aigerim/30github/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Miregia-Aigerim/30github/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/Miregia-Aigerim/30github/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/Miregia-Aigerim/30github/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Miregia-Aigerim/30github/tree/master/0619-biggest-single-number) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Miregia-Aigerim/30github/tree/master/1908-recyclable-and-low-fat-products) |
 ## Array
