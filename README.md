@@ -12,6 +12,7 @@
 | [0584-find-customer-referee](https://github.com/Miregia-Aigerim/30github/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Miregia-Aigerim/30github/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Miregia-Aigerim/30github/tree/master/0619-biggest-single-number) |
+| [1153-product-sales-analysis-i](https://github.com/Miregia-Aigerim/30github/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Miregia-Aigerim/30github/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Miregia-Aigerim/30github/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Miregia-Aigerim/30github/tree/master/1908-recyclable-and-low-fat-products) |
