@@ -41,4 +41,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Miregia-Aigerim/30github/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Miregia-Aigerim/30github/tree/master/0441-arranging-coins) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Miregia-Aigerim/30github/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
