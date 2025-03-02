@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/Miregia-Aigerim/30github/tree/master/2502-sort-the-people) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Miregia-Aigerim/30github/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Miregia-Aigerim/30github/tree/master/0441-arranging-coins) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Miregia-Aigerim/30github/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
