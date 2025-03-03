@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Miregia-Aigerim/30github/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Miregia-Aigerim/30github/tree/master/0119-pascals-triangle-ii) |
 | [2502-sort-the-people](https://github.com/Miregia-Aigerim/30github/tree/master/2502-sort-the-people) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Miregia-Aigerim/30github/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -58,4 +59,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Miregia-Aigerim/30github/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Miregia-Aigerim/30github/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
