@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Miregia-Aigerim/30github/tree/master/0441-arranging-coins) |
+| [2645-pass-the-pillow](https://github.com/Miregia-Aigerim/30github/tree/master/2645-pass-the-pillow) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Miregia-Aigerim/30github/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
@@ -61,4 +62,8 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/Miregia-Aigerim/30github/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Miregia-Aigerim/30github/tree/master/0119-pascals-triangle-ii) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Miregia-Aigerim/30github/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
