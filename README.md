@@ -29,11 +29,13 @@
 | [0118-pascals-triangle](https://github.com/Miregia-Aigerim/30github/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Miregia-Aigerim/30github/tree/master/0119-pascals-triangle-ii) |
 | [2502-sort-the-people](https://github.com/Miregia-Aigerim/30github/tree/master/2502-sort-the-people) |
+| [3227-find-missing-and-repeated-values](https://github.com/Miregia-Aigerim/30github/tree/master/3227-find-missing-and-repeated-values) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Miregia-Aigerim/30github/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/Miregia-Aigerim/30github/tree/master/2502-sort-the-people) |
+| [3227-find-missing-and-repeated-values](https://github.com/Miregia-Aigerim/30github/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | ------- |
 | [0441-arranging-coins](https://github.com/Miregia-Aigerim/30github/tree/master/0441-arranging-coins) |
 | [2645-pass-the-pillow](https://github.com/Miregia-Aigerim/30github/tree/master/2645-pass-the-pillow) |
+| [3227-find-missing-and-repeated-values](https://github.com/Miregia-Aigerim/30github/tree/master/3227-find-missing-and-repeated-values) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Miregia-Aigerim/30github/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
@@ -66,4 +69,8 @@
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/Miregia-Aigerim/30github/tree/master/2645-pass-the-pillow) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/Miregia-Aigerim/30github/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
