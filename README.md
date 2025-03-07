@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Miregia-Aigerim/30github/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/Miregia-Aigerim/30github/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Miregia-Aigerim/30github/tree/master/0119-pascals-triangle-ii) |
 | [2502-sort-the-people](https://github.com/Miregia-Aigerim/30github/tree/master/2502-sort-the-people) |
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Miregia-Aigerim/30github/tree/master/3227-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Miregia-Aigerim/30github/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Miregia-Aigerim/30github/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
