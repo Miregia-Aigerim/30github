@@ -29,6 +29,7 @@
 | [0011-container-with-most-water](https://github.com/Miregia-Aigerim/30github/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/Miregia-Aigerim/30github/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Miregia-Aigerim/30github/tree/master/0119-pascals-triangle-ii) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Miregia-Aigerim/30github/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2502-sort-the-people](https://github.com/Miregia-Aigerim/30github/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/Miregia-Aigerim/30github/tree/master/3227-find-missing-and-repeated-values) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Miregia-Aigerim/30github/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Miregia-Aigerim/30github/tree/master/0020-valid-parentheses) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Miregia-Aigerim/30github/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2502-sort-the-people](https://github.com/Miregia-Aigerim/30github/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Miregia-Aigerim/30github/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Miregia-Aigerim/30github/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
