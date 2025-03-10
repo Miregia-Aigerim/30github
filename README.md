@@ -32,6 +32,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Miregia-Aigerim/30github/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2502-sort-the-people](https://github.com/Miregia-Aigerim/30github/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/Miregia-Aigerim/30github/tree/master/3227-find-missing-and-repeated-values) |
+| [3582-find-indices-of-stable-mountains](https://github.com/Miregia-Aigerim/30github/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Miregia-Aigerim/30github/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3778-transform-array-by-parity](https://github.com/Miregia-Aigerim/30github/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
