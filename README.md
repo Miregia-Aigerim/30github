@@ -9,6 +9,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Miregia-Aigerim/30github/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Miregia-Aigerim/30github/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Miregia-Aigerim/30github/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Miregia-Aigerim/30github/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Miregia-Aigerim/30github/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Miregia-Aigerim/30github/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Miregia-Aigerim/30github/tree/master/0595-big-countries) |
