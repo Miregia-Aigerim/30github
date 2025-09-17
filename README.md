@@ -74,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Miregia-Aigerim/30github/tree/master/0009-palindrome-number) |
 | [0441-arranging-coins](https://github.com/Miregia-Aigerim/30github/tree/master/0441-arranging-coins) |
 | [2645-pass-the-pillow](https://github.com/Miregia-Aigerim/30github/tree/master/2645-pass-the-pillow) |
 | [3227-find-missing-and-repeated-values](https://github.com/Miregia-Aigerim/30github/tree/master/3227-find-missing-and-repeated-values) |
