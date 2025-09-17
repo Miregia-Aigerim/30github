@@ -40,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Miregia-Aigerim/30github/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Miregia-Aigerim/30github/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/Miregia-Aigerim/30github/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Miregia-Aigerim/30github/tree/master/0119-pascals-triangle-ii) |
@@ -52,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Miregia-Aigerim/30github/tree/master/0001-two-sum) |
 | [2502-sort-the-people](https://github.com/Miregia-Aigerim/30github/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/Miregia-Aigerim/30github/tree/master/3227-find-missing-and-repeated-values) |
 ## String
